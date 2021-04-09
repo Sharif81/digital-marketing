@@ -1,0 +1,74 @@
+
+.navbar-brand img {
+    width: 200px;
+    height: 80px;
+}
+
+.navbar-nav {
+    margin-right: 50px;
+}
+
+.nav-link {
+    margin: 15px;
+}
+
+#nav-blog {
+    margin-right: 200px;
+}
+
+#cell {
+    width: 25px;
+    height: 40px; 
+}
+
+.banner {
+    background-color: #F7F7F7;
+    margin-top: 150px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.banner-protfolio {
+    padding: 30px 60px;
+    margin-top: 50px;    
+}
+
+.banner-protfolio h1, p {
+    margin-bottom: 30px;
+}
+
+.card-banner {
+    margin-top: 100px;
+}
+
+.ceo-part {
+    margin-top: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.social-link img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+}
+
+.social-link ul, li {
+    list-style: none;
+    
+}
+
+.footer-area {
+    margin-top: 100px;
+    background-color: #e4dede;
+
+}
+
+.contact-detalis {
+    padding: 40px 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    
+}
+
+footer {
+    padding: 20px 0px;
+}
